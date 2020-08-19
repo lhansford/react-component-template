@@ -2,6 +2,14 @@
   "name": "react-component-template",
   "version": "1.0.0",
   "description": "An opinionated template for React components using Typescript",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/owner/project",
+  "bugs": {
+    "url": "https://github.com/owner/project/issues",
+    "email": "mail@lukehansford.me"
+  },
   "author": "Luke Hansford",
   "license": "MIT",
   "files": [
