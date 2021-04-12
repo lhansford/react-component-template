@@ -55,7 +55,7 @@
     "eslint-config-fishbrain": "^2.0.0",
     "eslint-plugin-jest-dom": "^3.1.5",
     "eslint-plugin-jest-formatting": "^2.0.0",
-    "fork-ts-checker-webpack-plugin": "^5.0.14",
+    "fork-ts-checker-webpack-plugin": "^6.2.1",
     "jest": "^26.2.2",
     "prettier": "^2.0.1",
     "react": "^16.13.1",
